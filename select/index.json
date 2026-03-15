@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "とこしずめ",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-15T14:20:47.538324Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とこしずめ - Tokoshizume",
+      "artist": "Inabakumori,Sekai",
+      "has_synced": true,
+      "path": "select/01_とこしずめ_-_Tokoshizume_Inabakumori,Sekai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とこしずめ - Tokoshizume",
+      "artist": "Inabakumori",
+      "has_synced": true,
+      "path": "select/02_とこしずめ_-_Tokoshizume_Inabakumori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とこしずめ",
+      "artist": "稲葉曇, 星界",
+      "has_synced": false,
+      "path": "select/pl_01_とこしずめ_稲葉曇,_星界.txt"
+    }
+  ]
+}
